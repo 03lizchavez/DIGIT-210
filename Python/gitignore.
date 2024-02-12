@@ -1,0 +1,9 @@
+# OS generated files #
+######################
+*Liz
+# This is the name of my flash drive, it's ignoring everything I add so this isn't gray like it normally is
+/gitignore.txt
+# Ignore gif files
+.gif
+# Ignore PDF files
+*.pdf
