@@ -2,3 +2,6 @@ Honestly I hope I get better at learning some of the coding to Python because ev
 tutorials some things were confusing. But I can look back and play around with it, so I have a
 better understanding. It just got confusing sometimes even with the link to further explain when
 some things were not helpful because it'd go over stuff that was not learned until later.
+tutorials some things were confusing. But I can look back and play around with it so I have a
+better understanding. It just got confusing sometimes even with the link to further explain when
+some things were not helpful because it'd go over stuff that was not learned until later. 
