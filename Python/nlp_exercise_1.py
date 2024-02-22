@@ -7,3 +7,7 @@ textfile = open('nlp_exercise_1', 'r', encoding='utf8')
 words = textfile.read()
 wordstrings = str(words)
 print(wordstrings)
+txtWords = nlp(wordstrings)
+for token in txtWords:
+    # if token.pos_ == "VERB":
+    print(token.text, "!!!", token.pos_, "%$#", token.lemma_)
