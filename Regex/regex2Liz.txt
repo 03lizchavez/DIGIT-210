@@ -1,0 +1,7 @@
+Find: (.+)
+Replace With: <line>\0</line>
+Find: <line>  ([IVXLC]+)</line>
+Replace With: <sonnet number="\1">\1
+1. Made file to xml and reopened it
+2. added closing tags to <sonnet>
+3. Wrap the xml into <xml> tag
