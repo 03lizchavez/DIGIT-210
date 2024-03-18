@@ -1,0 +1,6 @@
+1. Noticed that each quote is clearly a conversation within 2 or more people but it doesn't say
+who is talking which can be confusing if you don't watch the movie
+2. Learned that {\an8} is an error that isn't supposed to show but helps with captions and seems
+to have that issue when its an .ass file instead of a .srt file but I'm not sure what either files
+look like and why it's such a important issue to make sure it's not an .ass file for captions
+3. I removed the <head> tag and <body> tag just to keep it as an xml file.
