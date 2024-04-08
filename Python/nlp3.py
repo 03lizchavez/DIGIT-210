@@ -1,8 +1,8 @@
-# Our challenge: read in multiple text files from a directory:
 # Our resource: The Python os module + a handy code example:
 #  https://www.geeksforgeeks.org/how-to-read-multiple-text-files-from-folder-in-python/
 import spacy
 import os, shutil
+# Our challenge: read in multiple text files from a directory:
 # What is os? This is a library that allows Python to read your operating system (os).
 # This will let Python read and interpret file paths on your local computer.
 # shutil will let us remove unwanted files from a directory.
